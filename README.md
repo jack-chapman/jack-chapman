@@ -1,16 +1,21 @@
-### Hi there 👋
+# Front-end Developer (Vue.js, TypeScript, Vite)
 
-<!--
-**jack-chapman/jack-chapman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working at Tillo, a British fintech company.
 
-Here are some ideas to get you started:
+🌎 Check my [website](https://jackchapman.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- Vue.js
+- TypeScript
+- Vite
+- Rust
+- Game Development
+
+### Contact
+
+Feel free to reach out 💬
+
+<a href="https://twitter.com/jackchapman093">
+    <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+</a>
